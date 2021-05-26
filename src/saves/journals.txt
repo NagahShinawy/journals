@@ -1,0 +1,23 @@
+python
+java
+html
+css
+custom errors
+testing adding errors
+file upload
+testing file uploads
+pylint
+pylint
+db config
+odbc driver for mssql
+pandas for data operations
+numpy
+rename to "save to"
+using stream template
+using _home
+testing render
+reset to home template
+test refactor load method
+rename AcceptRefuseClass
+ruby on rails
+python for all, it is cool

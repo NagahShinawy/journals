@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "journal": "python"
+    },
+    {
+        "id": 2,
+        "journal": "java"
+    },
+    {
+        "id": 3,
+        "journal": "html"
+    },
+    {
+        "id": 4,
+        "journal": "css"
+    },
+    {
+        "id": 5,
+        "journal": "custom errors"
+    },
+    {
+        "id": 6,
+        "journal": "testing adding errors"
+    },
+    {
+        "id": 7,
+        "journal": "file upload"
+    },
+    {
+        "id": 8,
+        "journal": "testing file uploads"
+    },
+    {
+        "id": 9,
+        "journal": "pylint"
+    },
+    {
+        "id": 10,
+        "journal": "pylint"
+    },
+    {
+        "id": 11,
+        "journal": "db config"
+    },
+    {
+        "id": 12,
+        "journal": "odbc driver for mssql"
+    },
+    {
+        "id": 13,
+        "journal": "pandas for data operations"
+    },
+    {
+        "id": 14,
+        "journal": "numpy"
+    },
+    {
+        "id": 15,
+        "journal": "rename to \"save to\""
+    },
+    {
+        "id": 16,
+        "journal": "using stream template"
+    },
+    {
+        "id": 17,
+        "journal": "using _home"
+    },
+    {
+        "id": 18,
+        "journal": "testing render"
+    },
+    {
+        "id": 19,
+        "journal": "reset to home template"
+    },
+    {
+        "id": 20,
+        "journal": "test refactor load method"
+    },
+    {
+        "id": 21,
+        "journal": "rename AcceptRefuseClass"
+    },
+    {
+        "id": 22,
+        "journal": "ruby on rails"
+    },
+    {
+        "id": 23,
+        "journal": "python for all, it is cool"
+    }
+]
